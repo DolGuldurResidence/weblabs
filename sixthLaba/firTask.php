@@ -1,5 +1,5 @@
 <?php
-// task1.php - Часть 1: Базовые HTTP-запросы
+
 
 // GET
 $ch = curl_init('https://jsonplaceholder.typicode.com/posts');
